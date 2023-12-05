@@ -12,7 +12,7 @@
   endDate    -- end date of record share
 </h4>
 <h4>This contract provides for sharing patients' medical records with doctors or other provider. </h4>
-![image](https://github.com/jacksonlee0816/jacksonlee0816/assets/152957973/34bfdc2c-8edb-4038-b19b-20021de703e4)
+<img src="https://github.com/jacksonlee0816/jacksonlee0816/assets/152957973/34bfdc2c-8edb-4038-b19b-20021de703e4"></img>
 
 <!---
 jacksonlee0816/jacksonlee0816 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
